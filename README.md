@@ -1,2 +1,2 @@
-# Book-Library-Project
-Created with CodeSandbox
+This project contains the concept of props and mapping of array.
+Any new book added onto the array will be automatically displayed on the page
